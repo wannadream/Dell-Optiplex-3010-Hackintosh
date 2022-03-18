@@ -7,3 +7,4 @@
 - Mobo: Intel H61 Chipset
 - RAM: 16 GB DDR3
 - Graphics: AsRock X580 4GB
+- OpenCore: 0.7.9
